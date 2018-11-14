@@ -23,11 +23,11 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/tomcat/catalina -->
+<!-- https://mvnrepository.com/artifact/com.sun/rt -->
 <dependency>
-    <groupId>tomcat</groupId>
-    <artifactId>catalina</artifactId>
-    <version>5.5.15</version>
+    <groupId>com.sun</groupId>
+    <artifactId>rt</artifactId>
+    <version>1.5.0_06</version>
 </dependency>
     <dependency>
       <groupId>args4j</groupId>
