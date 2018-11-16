@@ -23,16 +23,12 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.apache.wink/wink-server -->
+<!-- https://mvnrepository.com/artifact/com.exadel.flamingo/flamingo-services-common -->
 <dependency>
-    <groupId>org.apache.wink</groupId>
-    <artifactId>wink-server</artifactId>
-    <version>1.0-incubating</version>
+    <groupId>com.exadel.flamingo</groupId>
+    <artifactId>flamingo-services-common</artifactId>
+    <version>2.2.0</version>
 </dependency>
-
-
-
-
     <dependency>
       <groupId>javax.inject</groupId>
       <artifactId>javax.inject</artifactId>
