@@ -23,12 +23,13 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.apache.flex/flex-tool-api -->
+<!-- https://mvnrepository.com/artifact/org.apache.activemq/activemq-core -->
 <dependency>
-    <groupId>org.apache.flex</groupId>
-    <artifactId>flex-tool-api</artifactId>
-    <version>1.0.0</version>
+    <groupId>org.apache.activemq</groupId>
+    <artifactId>activemq-core</artifactId>
+    <version>5.7.0</version>
 </dependency>
+
 
 
 
