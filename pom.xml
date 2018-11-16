@@ -22,11 +22,11 @@
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
   <dependencies>
- <!-- https://mvnrepository.com/artifact/com.exadel.flamingo/flamingo-services-common -->
+<!-- https://mvnrepository.com/artifact/org.apache.geode/geode-core -->
 <dependency>
-    <groupId>com.exadel.flamingo</groupId>
-    <artifactId>flamingo-services-common</artifactId>
-    <version>2.2.0</version>
+    <groupId>org.apache.geode</groupId>
+    <artifactId>geode-core</artifactId>
+    <version>1.2.1</version>
 </dependency>
     <dependency>
       <groupId>javax.inject</groupId>
