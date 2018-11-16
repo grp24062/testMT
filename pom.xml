@@ -24,11 +24,10 @@
   <dependencies>
   <!-- https://mvnrepository.com/artifact/com.exadel.flamingo/flamingo-services-common -->
 <dependency>
-    <groupId>com.exadel.flamingo</groupId>
-    <artifactId>flamingo-services-common</artifactId>
-    <version>2.2.0</version>
+    <groupId>org.apache.maven</groupId>
+    <artifactId>maven-core</artifactId>
+    <version>3.1.1</version>
 </dependency>
-
     <dependency>
       <groupId>javax.inject</groupId>
       <artifactId>javax.inject</artifactId>
