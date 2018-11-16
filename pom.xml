@@ -23,13 +23,12 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.apache.activemq/activemq-core -->
+<!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-catalina -->
 <dependency>
-    <groupId>org.apache.activemq</groupId>
-    <artifactId>activemq-core</artifactId>
-    <version>5.7.0</version>
+    <groupId>org.apache.tomcat</groupId>
+    <artifactId>tomcat-catalina</artifactId>
+    <version>8.5.0</version>
 </dependency>
-
 
 
 
