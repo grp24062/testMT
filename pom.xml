@@ -23,12 +23,13 @@
   </properties>
 	
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.picketlink/picketlink-federation -->
+<!-- https://mvnrepository.com/artifact/org.apache.flex/flex-tool-api -->
 <dependency>
-    <groupId>org.picketlink</groupId>
-    <artifactId>picketlink-federation</artifactId>
-    <version>2.6.1.Final</version>
+    <groupId>org.apache.flex</groupId>
+    <artifactId>flex-tool-api</artifactId>
+    <version>1.0.0</version>
 </dependency>
+
 
 
     <dependency>
