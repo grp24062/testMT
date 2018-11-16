@@ -21,14 +21,13 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
-	
-  <dependencies>
-<!-- https://mvnrepository.com/artifact/com.exadel.flamingo/flamingo-services-common -->
+<!-- https://mvnrepository.com/artifact/org.apache.wicket/wicket -->
 <dependency>
-    <groupId>com.exadel.flamingo</groupId>
-    <artifactId>flamingo-services-common</artifactId>
-    <version>2.2.0</version>
-</dependency>
+    <groupId>org.apache.wicket</groupId>
+    <artifactId>wicket</artifactId>
+    <version>6.29.0</version>
+    <type>pom</type>
+</dependency>	
     <dependency>
       <groupId>javax.inject</groupId>
       <artifactId>javax.inject</artifactId>
