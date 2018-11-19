@@ -22,12 +22,14 @@
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.ovirt.engine.api/sdk -->
+
+    <!-- https://mvnrepository.com/artifact/com.exadel.flamingo/flamingo-services-common -->
 <dependency>
-    <groupId>org.ovirt.engine.api</groupId>
-    <artifactId>sdk</artifactId>
-    <version>4.1.6</version>
+    <groupId>com.exadel.flamingo</groupId>
+    <artifactId>flamingo-services-common</artifactId>
+    <version>2.2.0</version>
 </dependency>
+
 
     <dependency>
       <groupId>javax.inject</groupId>
